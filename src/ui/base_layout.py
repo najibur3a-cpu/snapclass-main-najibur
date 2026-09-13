@@ -158,6 +158,16 @@ def style_base_layout():
             .st-emotion-cache-s4bvyn {
             color: rgb(22 10 10) !important;
             }
+            .st-emotion-cache-1eedo15 {
+      
+            color: rgb(17 11 11)!important;
+         
+            }
+
+            .st-emotion-cache-1eedo15 {
+            color: rgb(24 19 19)!important;
+                
+            }
 
              
 
