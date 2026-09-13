@@ -107,6 +107,60 @@ def style_base_layout():
 
             button:hover{
                 transform :scale(1.05)}
+
+            input[type="text"], 
+            input[type="password"],
+            .stTextInput input,
+            .stTextInput input[type="text"],
+            .stTextInput input[type="password"] {
+                background-color: white !important;
+                color: black !important;
+                border: 1px solid #d0d0d0 !important;
+                outline: none !important;
+                padding: 10px 14px !important;
+            }
+            input::placeholder,
+            .stTextInput input::placeholder {
+                color: black !important;
+                opacity: 0.6 !important;
+            }
+
+            .stTextInput label {
+            color: black !important;
+            }
+
+            .stCameraInput label {
+            color: black !important;
+            opacity: 0.6 !important;
+            }
+            #welcome-md-najibur-rohman {
+            color: black !important;
+            opacity: 0.9 !important;
+            }
+
+            .st-emotion-cache-cpuwpc {
+            background-color: white !important;
+            color: black !important;
+            }
+
+            .st-emotion-cache-4cktc5 {
+            color: rgb(16 12 12) !important;
+            }
+
+            .st-emotion-cache-15kytl3 {
+            opacity: 0.9 !important;
+            color: rgb(4 3 3) !important;
+            }
+
+            .st-emotion-cache-1m3raxn {
+            color: rgb(21, 24, 30) !important;
+            }
+
+             
+
+
+
+
         </style>  
 
                 """
