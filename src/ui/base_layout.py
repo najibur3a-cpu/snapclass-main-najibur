@@ -155,6 +155,9 @@ def style_base_layout():
             .st-emotion-cache-1m3raxn {
             color: rgb(21, 24, 30) !important;
             }
+            .st-emotion-cache-s4bvyn {
+            color: rgb(22 10 10) !important;
+            }
 
              
 
